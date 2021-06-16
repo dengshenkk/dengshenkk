@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dengshenkk)](https://github.com/dengshenkk/readme?show_icons=true&theme=vue)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dengshenkk&show_icons=true&theme=vue)](https://github.com/dengshenkk/readme)
 
 ---
 

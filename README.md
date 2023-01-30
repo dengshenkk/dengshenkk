@@ -1,6 +1,3 @@
-![image](code-man.png)
-
----
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dengshenkk&show_icons=true&theme=vue)](https://github.com/dengshenkk/readme)
 
